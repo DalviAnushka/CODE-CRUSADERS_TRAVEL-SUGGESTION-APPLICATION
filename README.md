@@ -10,3 +10,6 @@ chatbot.ipynb file contains code for chatbot.Upload the states file while runing
 the user interface website created is http://wanderwise.liveblog365.com/
 
 the website has been updated.
+
+DATASET:
+Dataset for sentimental analysis is taken from https://www.kaggle.com/datasets/ritvik1909/indian-places-to-visit-reviews-data
