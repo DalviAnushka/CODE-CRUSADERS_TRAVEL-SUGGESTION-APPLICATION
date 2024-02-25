@@ -8,3 +8,5 @@ Travel_Suggestion_Application.ipynb file contains code for Sentimental Analysis.
 chatbot.ipynb file contains code for chatbot.Upload the states file while runing code.(it has some errors to be rectified)
 
 the user interface website created is http://wanderwise.liveblog365.com/
+
+the website has been updated.
